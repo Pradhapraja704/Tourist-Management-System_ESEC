@@ -56,7 +56,8 @@ function Packages() {
 const styles = {
   container: {
     padding: "40px 20px",
-    textAlign: "center"
+    textAlign: "center",
+    minHeight: "70vh"
   },
   grid: {
     marginTop: "30px",

@@ -21,7 +21,7 @@ const styles = {
     display: "flex",
     justifyContent: "space-between",
     alignItems: "center",
-    padding: "15px 40px",
+    padding: "15px 20px",
     backgroundColor: "#1e3a8a",
     color: "white"
   },

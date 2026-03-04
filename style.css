@@ -1,0 +1,51 @@
+#tf{
+    list-style: none;
+}
+.bt{
+    border-width: 3px;
+    margin: 20px;
+    align-items: center;
+    width: 100px;
+    height: 50px;
+}
+#buttons{
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin: 20px;
+    border: 20px;
+    size: 50px;
+    color: black;
+
+}
+.con{
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+#tf{
+    border-radius: 10%;
+    background-color: black;
+    margin-top: 20px;
+}
+#tf div{
+    border-radius: 50%;
+    margin: 20px;
+    border: 20px;
+}
+#rd{
+    height: 50px;
+    width: 50px ;
+    background-color: red;
+}
+#gr{
+    height: 50px;
+    width: 50px ;
+    background-color: greenyellow;
+}
+
+#yl{
+    height: 50px;
+    width: 50px ;
+    background-color: yellow    ;
+}

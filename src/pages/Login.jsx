@@ -44,7 +44,8 @@ function Login() {
 const styles = {
   container: {
     padding: "40px 20px",
-    textAlign: "center"
+    textAlign: "center",
+    minHeight: "70vh"
   },
   form: {
     maxWidth: "400px",
